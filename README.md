@@ -113,6 +113,12 @@ The objective of this project is to transform Airbnb data into meaningful busine
 - Interactive Visualization
 
 ---
+## Power BI Dashboard
+
+The dashboard was developed using Microsoft Power BI Desktop.
+
+Due to the large file size, the `.pbix` file is not included in this repository.
+The repository contains dashboard screenshots, dataset files, and project documentation.
 
 ## 👩‍💻 Author
 
